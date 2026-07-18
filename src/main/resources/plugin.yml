@@ -1,0 +1,8 @@
+name: HelloPlugin
+version: '${project.version}'
+main: com.artemssa.HelloPlugin
+description: Пишет привет всем каждую секунду
+authors:
+  - artemssa
+commands: {}
+permissions: {}
